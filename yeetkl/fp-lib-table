@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name mech_switch_rgb)(type KiCad)(uri ${KIPRJMOD}/mech_switch_rgb.pretty)(options "")(descr ""))
-)

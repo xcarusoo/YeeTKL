@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name mech_switch_rgb)(type Legacy)(uri ${KIPRJMOD}/mech_switch_rgb.lib)(options "")(descr ""))
-)
